@@ -11,3 +11,12 @@
 - Handled errors and provided user feedback for incorrect city names.
 
 The Weather Viewer project showcases my ability to work with APIs, retrieve data, and present it in a visually appealing and user-friendly manner. It also demonstrates my proficiency in front-end development technologies and problem-solving skills in handling data conversion and error handling.
+
+
+## Image
+Here is an example image:
+
+![Example Image](https://github.com/Nayankumar4986/Mausam-Zen-web/blob/main/2.png)
+
+## APP LINK -> [ https://6648f58211b5250e946c0fc9--whimsical-bonbon-790811.netlify.app/](https://nayankumar4986.github.io/Mausam-Zen-web/)
+Thank you for visiting my project!
