@@ -16,7 +16,7 @@ The Weather Viewer project showcases my ability to work with APIs, retrieve data
 ## Image
 Here is an example image:
 
-![Example Image](https://github.com/Nayankumar4986/Mausam-Zen-web/blob/main/2.png)
+![Example Image](https://github.com/Nayankumar4986/Mausam-Zen-web/blob/main/wet.png)
 
 ## APP LINK -> [ https://6648f58211b5250e946c0fc9--whimsical-bonbon-790811.netlify.app/](https://nayankumar4986.github.io/Mausam-Zen-web/)
 Thank you for visiting my project!
